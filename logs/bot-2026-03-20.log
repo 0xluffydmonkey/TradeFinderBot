@@ -1,0 +1,1185 @@
+2026-03-20 00:20:12.256 [INFO ] [WEB] Cliente desconectado: fHMQjzuG8lu8OV0ZAAAD
+2026-03-20 09:03:37.678 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 09:03:37.679 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 09:03:38.491 [INFO ] [DRIFT] Desconectado.
+2026-03-20 09:57:41.270 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 09:57:41.271 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 09:57:41.272 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 09:57:41.299 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 09:57:41.300 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 09:57:43.235 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 09:57:43.726 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 09:57:43.727 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 09:57:43.905 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 09:57:43.906 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 09:57:43.906 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 09:57:43.906 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 09:57:43.907 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 09:57:43.909 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 09:57:44.391 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 09:57:44.631 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 09:57:44.631 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 09:57:44.632 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 09:57:57.021 [INFO ] [CTRL] /start | User: xluffy_d (1262019048)
+2026-03-20 09:58:06.203 [INFO ] [CTRL] cb:menu:status | User: xluffy_d (1262019048)
+2026-03-20 09:58:28.497 [INFO ] [WEB] Cliente conectado: SxXuR21n2sRkduAbAAAB
+2026-03-20 09:59:41.737 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 10:00:57.619 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 10:00:57.646 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 10:00:57.647 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 10:00:59.674 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 10:01:00.184 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 10:16:23.345 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 10:16:23.347 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 10:16:24.460 [INFO ] [DRIFT] Desconectado.
+2026-03-20 10:16:28.712 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 10:16:28.713 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 10:16:28.713 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 10:16:28.741 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 10:16:28.742 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 10:16:30.633 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 10:16:31.085 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 10:16:31.086 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 10:16:31.214 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 10:16:31.215 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 10:16:31.215 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 10:16:31.218 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 10:16:31.218 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 10:16:31.219 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 10:16:31.221 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 10:16:31.694 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 10:16:31.874 [INFO ] [WEB] Cliente conectado: hg384jyYdj8-Be9MAAAB
+2026-03-20 10:16:31.935 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 10:16:31.935 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 10:16:31.935 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 10:16:37.304 [INFO ] [CTRL] cb:ctrl:close_all | User: xluffy_d (1262019048)
+2026-03-20 10:16:40.824 [INFO ] [CTRL] cb:menu:positions | User: xluffy_d (1262019048)
+2026-03-20 10:16:45.146 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 10:16:53.535 [INFO ] [CTRL] cb:menu:status | User: xluffy_d (1262019048)
+2026-03-20 10:17:01.891 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 10:17:03.780 [INFO ] [CTRL] cb:menu:positions | User: xluffy_d (1262019048)
+2026-03-20 10:17:15.689 [INFO ] [CTRL] cb:pos:view:SOL | User: xluffy_d (1262019048)
+2026-03-20 10:18:00.635 [INFO ] [WEB] Cliente desconectado: hg384jyYdj8-Be9MAAAB
+2026-03-20 10:18:01.404 [INFO ] [WEB] Cliente conectado: BI4SRWYEnyEFoJEkAAAD
+2026-03-20 10:18:45.463 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 10:18:45.491 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 10:18:45.491 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 10:18:47.388 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 10:18:47.834 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 10:40:05.180 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 10:40:05.181 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 10:40:06.223 [INFO ] [DRIFT] Desconectado.
+2026-03-20 10:40:09.806 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 10:40:09.808 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 10:40:09.808 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 10:40:09.835 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 10:40:09.836 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 10:40:11.819 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 10:40:12.268 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 10:40:12.268 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 10:40:12.400 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 10:40:12.400 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 10:40:12.400 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 10:40:12.402 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 10:40:12.403 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 10:40:12.403 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 10:40:12.405 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 10:40:12.899 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 10:40:13.079 [INFO ] [WEB] Cliente conectado: Dti_3FTbQ_yTkPuAAAAB
+2026-03-20 10:40:13.141 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 10:40:13.142 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 10:40:13.142 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 10:40:16.833 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 10:40:16.859 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 10:40:16.859 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 10:40:18.682 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 10:40:19.058 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 10:41:14.076 [INFO ] [WEB] Cliente desconectado: Dti_3FTbQ_yTkPuAAAAB
+2026-03-20 10:41:14.550 [INFO ] [WEB] Cliente conectado: NyNnzmvzhKBoAtSLAAAD
+2026-03-20 10:41:31.479 [INFO ] [CTRL] cb:pos:refresh:SOL | User: xluffy_d (1262019048)
+2026-03-20 10:41:35.505 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 10:41:41.008 [INFO ] [CTRL] cb:menu:positions | User: xluffy_d (1262019048)
+2026-03-20 10:41:44.887 [INFO ] [CTRL] cb:pos:view:SOL | User: xluffy_d (1262019048)
+2026-03-20 10:52:30.056 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 10:52:30.058 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 10:52:31.093 [INFO ] [DRIFT] Desconectado.
+2026-03-20 10:52:33.693 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 10:52:33.694 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 10:52:33.694 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 10:52:33.723 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 10:52:33.724 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 10:52:35.707 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 10:52:36.149 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 10:52:36.149 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 10:52:36.268 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 10:52:36.268 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 10:52:36.269 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 10:52:36.271 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 10:52:36.271 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 10:52:36.272 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 10:52:36.274 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 10:52:36.742 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 10:52:37.024 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 10:52:37.024 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 10:52:37.025 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 10:52:38.072 [INFO ] [WEB] Cliente conectado: uZsWNDvPwqNy5Gi-AAAB
+2026-03-20 10:52:40.791 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 10:52:40.818 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 10:52:40.819 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 10:52:42.795 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 10:52:43.257 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 10:52:51.333 [INFO ] [WEB] Cliente desconectado: uZsWNDvPwqNy5Gi-AAAB
+2026-03-20 10:52:51.799 [INFO ] [WEB] Cliente conectado: d3RxOqal7626A_V3AAAD
+2026-03-20 10:53:03.991 [INFO ] [WEB] Comando: fechar SOL
+2026-03-20 10:53:03.992 [INFO ] [BOT] 🔒 Comando: fechar SOL
+2026-03-20 10:53:07.412 [INFO ] [DRIFT] Ordens de SOL canceladas
+2026-03-20 10:53:09.039 [INFO ] [DRIFT] ✅ Posição SOL fechada: 3kwqY2KDToLkZTScmGyWdx7dyoK6cw37T5D18MedY9Fj8vtrjXvQKP7NfRybAPKeQ6Suq9kPC8zPmPJR58QMSzSJ
+2026-03-20 10:53:09.039 [INFO ] [BOT] ✅ Posição SOL fechada via comando: 3kwqY2KDToLkZTScmGyWdx7dyoK6cw37T5D18MedY9Fj8vtrjXvQKP7NfRybAPKeQ6Suq9kPC8zPmPJR58QMSzSJ
+2026-03-20 10:53:55.924 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 10:54:23.849 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 10:54:23.849 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 10:54:24.776 [INFO ] [DRIFT] Desconectado.
+2026-03-20 10:54:26.576 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 10:54:26.577 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 10:54:26.577 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 10:54:26.605 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 10:54:26.606 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 10:54:28.337 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 10:54:28.789 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 10:54:28.790 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 10:54:28.921 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 10:54:28.922 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 10:54:28.922 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 10:54:28.923 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 10:54:28.923 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 10:54:28.924 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 10:54:28.926 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 10:54:29.417 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 10:54:29.657 [INFO ] [TELEGRAM] Canal: "Meu" (ID: 2162078821)
+2026-03-20 10:54:29.658 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 10:54:29.658 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002162078821
+2026-03-20 10:54:44.182 [INFO ] [WEB] Cliente conectado: d_Pe4OXbVTXay9kaAAAB
+2026-03-20 10:54:57.620 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 10:54:57.621 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST002
+2026-03-20 10:54:57.621 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST002 validado com sucesso
+2026-03-20 10:54:57.621 [INFO ] [DRIFT] Free collateral: $109.57
+2026-03-20 10:54:57.622 [INFO ] [RISK] ── Pré-validação SOLLONGTEST002 (LONG SOL) ──
+2026-03-20 10:54:57.622 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 10:54:57.622 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 10:54:57.622 [INFO ] [RISK] R:R = 1:2.16 (risco 1.56% / recompensa 3.37%)
+2026-03-20 10:54:57.622 [INFO ] [RISK] Conta (Drift): freeCollateral=$109.57 | equity=$109.57 | posições=0 | notional=$0.00
+2026-03-20 10:54:57.622 [WARN ] [RISK] ⛔ Limite de posições atingido: 0/0 — sinal rejeitado
+2026-03-20 10:54:57.622 [WARN ] [BOT] ⛔ Rejeitado pelo risk manager: SOLLONGTEST002
+2026-03-20 10:55:34.157 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 10:55:34.158 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST003
+2026-03-20 10:55:34.158 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST003 validado com sucesso
+2026-03-20 10:55:34.158 [INFO ] [DRIFT] Free collateral: $109.57
+2026-03-20 10:55:34.158 [INFO ] [RISK] ── Pré-validação SOLLONGTEST003 (LONG SOL) ──
+2026-03-20 10:55:34.158 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 10:55:34.158 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 10:55:34.158 [INFO ] [RISK] R:R = 1:1.18 (risco 3.81% / recompensa 4.50%)
+2026-03-20 10:55:34.158 [INFO ] [RISK] Conta (Drift): freeCollateral=$109.57 | equity=$109.57 | posições=0 | notional=$0.00
+2026-03-20 10:55:34.158 [WARN ] [RISK] ⛔ Limite de posições atingido: 0/0 — sinal rejeitado
+2026-03-20 10:55:34.158 [WARN ] [BOT] ⛔ Rejeitado pelo risk manager: SOLLONGTEST003
+2026-03-20 10:56:09.559 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 10:56:09.559 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST004
+2026-03-20 10:56:09.559 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST004 validado com sucesso
+2026-03-20 10:56:09.559 [INFO ] [DRIFT] Free collateral: $109.57
+2026-03-20 10:56:09.559 [INFO ] [RISK] ── Pré-validação SOLLONGTEST004 (LONG SOL) ──
+2026-03-20 10:56:09.559 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 10:56:09.559 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 10:56:09.559 [INFO ] [RISK] R:R = 1:2.51 (risco 2.69% / recompensa 6.74%)
+2026-03-20 10:56:09.559 [INFO ] [RISK] Conta (Drift): freeCollateral=$109.57 | equity=$109.57 | posições=0 | notional=$0.00
+2026-03-20 10:56:09.559 [WARN ] [RISK] ⛔ Limite de posições atingido: 0/0 — sinal rejeitado
+2026-03-20 10:56:09.559 [WARN ] [BOT] ⛔ Rejeitado pelo risk manager: SOLLONGTEST004
+2026-03-20 10:57:59.994 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 10:57:59.995 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST005
+2026-03-20 10:57:59.995 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST005 validado com sucesso
+2026-03-20 10:57:59.995 [INFO ] [DRIFT] Free collateral: $109.57
+2026-03-20 10:57:59.995 [INFO ] [RISK] ── Pré-validação SOLLONGTEST005 (LONG SOL) ──
+2026-03-20 10:57:59.995 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 10:57:59.996 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 10:57:59.996 [INFO ] [RISK] R:R = 1:2.00 (risco 1.68% / recompensa 3.35%)
+2026-03-20 10:57:59.996 [INFO ] [RISK] Conta (Drift): freeCollateral=$109.57 | equity=$109.57 | posições=0 | notional=$0.00
+2026-03-20 10:57:59.996 [WARN ] [RISK] ⛔ Limite de posições atingido: 0/0 — sinal rejeitado
+2026-03-20 10:57:59.996 [WARN ] [BOT] ⛔ Rejeitado pelo risk manager: SOLLONGTEST005
+2026-03-20 11:01:13.783 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 11:01:13.783 [INFO ] [BOT] Sinais processados nesta sessão: 4
+2026-03-20 11:01:14.582 [INFO ] [DRIFT] Desconectado.
+2026-03-20 11:01:20.772 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 11:01:20.773 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 11:01:20.773 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 11:01:20.803 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 11:01:20.804 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 11:01:22.743 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 11:01:23.196 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 11:01:23.196 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 11:01:23.321 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 11:01:23.321 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 11:01:23.321 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 11:01:23.322 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 11:01:23.323 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 11:01:23.324 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 11:01:23.326 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 11:01:23.807 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 11:01:24.052 [INFO ] [TELEGRAM] Canal: "Meu" (ID: 2162078821)
+2026-03-20 11:01:24.052 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 11:01:24.053 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002162078821
+2026-03-20 11:01:24.122 [INFO ] [WEB] Cliente conectado: Jv-HnOwDoJjsA--rAAAB
+2026-03-20 11:01:37.243 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 11:01:37.244 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST006
+2026-03-20 11:01:37.244 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST006 validado com sucesso
+2026-03-20 11:01:37.244 [INFO ] [DRIFT] Free collateral: $109.57
+2026-03-20 11:01:37.245 [INFO ] [RISK] ── Pré-validação SOLLONGTEST006 (LONG SOL) ──
+2026-03-20 11:01:37.245 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 11:01:37.245 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 11:01:37.245 [INFO ] [RISK] R:R = 1:2.00 (risco 1.68% / recompensa 3.35%)
+2026-03-20 11:01:37.245 [INFO ] [RISK] Conta (Drift): freeCollateral=$109.57 | equity=$109.57 | posições=0 | notional=$0.00
+2026-03-20 11:01:37.245 [INFO ] [RISK] Tamanho inicial: $109.57 × 5% = $5.48
+2026-03-20 11:01:37.245 [INFO ] [RISK] Margem disponível (após 10% buffer): $98.62
+2026-03-20 11:01:37.245 [INFO ] [RISK] Exposição: atual=$0.00 + nova=$54.79 = $54.79 | limite=$87.66
+2026-03-20 11:01:37.245 [INFO ] [RISK] Ordem: 0.616347 base → snap(0.01) = 0.610000 | min=0.01 | nocional=$54.22
+2026-03-20 11:01:37.246 [INFO ] [RISK] ⚙️  Ajustes realizados: base snappeado 0.616347→0.610000 (step 0.01)
+2026-03-20 11:01:37.246 [INFO ] [RISK] ✅ Parâmetros aprovados:
+  {
+  "marketIndex": 0,
+  "alavancagem": "10x",
+  "colateral": "$5.4223",
+  "nocional": "$54.2229",
+  "base": "0.610000 SOL",
+  "RR": "1:2.00",
+  "margemLivre": "$109.57",
+  "posicoes": "1/5"
+}
+2026-03-20 11:01:37.246 [INFO ] [BOT] 🚀 Enviando para Drift Protocol...
+2026-03-20 11:01:37.246 [INFO ] [DRIFT] Tentativa 1/3 — SOLLONGTEST006
+2026-03-20 11:01:37.246 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $88.89 | TP: $91.87 | SL: $87.4 | 10x
+2026-03-20 11:01:37.246 [INFO ] [DRIFT] Colateral: precisa $5.42 | disponível $109.57 ✓
+2026-03-20 11:01:37.246 [INFO ] [DRIFT] Tamanho de ordem: 0.610000 (min 0.01, step 0.01) ✓
+2026-03-20 11:01:37.246 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 11:01:37.246 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 11:01:39.357 [INFO ] [DRIFT] ✅ Leverage configurada: 10.00x | tx: tW2p32SuAYttir39EX3EsRCqyfZpKzqovUdbahLAN4yoA8bha7xc1T8pvnG6k522p5wxpvzYadcEzc4c3aYQpQ9
+2026-03-20 11:01:39.357 [INFO ] [DRIFT] Leverage efetivamente aplicada: 10.00x
+2026-03-20 11:01:39.357 [INFO ] [DRIFT] 🔒 Tipo de margem: ISOLATED | colateral alocado: $5.4223
+2026-03-20 11:01:39.358 [INFO ] [DRIFT] Enviando market order (ISOLATED 10.00x)...
+2026-03-20 11:01:41.372 [INFO ] [DRIFT] ✅ Market order: 2Eo7XY5GLHvVhqrXFLbzErRbQVL71Zqn8GJdta6zXM7ho1jdTGHiTPHvijxcbAF7rU4ubVQuKBE4WY6NbNTvuftr
+2026-03-20 11:01:44.121 [INFO ] [DRIFT] ✅ Take Profit $91.87: vJwWp7LxPv1s5A9URS5CTsaQM8d9S7TXXRb5YrV9yR4zEKFZKntpBCAwSCZHYNnSq6uU1NNdbTrGWoEjZ3xx8bM
+2026-03-20 11:01:46.533 [INFO ] [DRIFT] ✅ Stop Loss $87.4: 4UubszwcNxbMsCPn8t7hPRG2TDN2w6aVQy7U1ydtF59YsCnNXugdCs6oq421qPrP1yY6z34fGFYdkZT5PD4deV1s
+2026-03-20 11:01:46.533 [INFO ] [DRIFT] 🎯 Posição completa!
+  {
+  "marketOrder": "https://solscan.io/tx/2Eo7XY5GLHvVhqrXFLbzErRbQVL71Zqn8GJdta6zXM7ho1jdTGHiTPHvijxcbAF7rU4ubVQuKBE4WY6NbNTvuftr",
+  "takeProfit": "https://solscan.io/tx/vJwWp7LxPv1s5A9URS5CTsaQM8d9S7TXXRb5YrV9yR4zEKFZKntpBCAwSCZHYNnSq6uU1NNdbTrGWoEjZ3xx8bM",
+  "stopLoss": "https://solscan.io/tx/4UubszwcNxbMsCPn8t7hPRG2TDN2w6aVQy7U1ydtF59YsCnNXugdCs6oq421qPrP1yY6z34fGFYdkZT5PD4deV1s"
+}
+2026-03-20 11:01:46.545 [INFO ] [BOT] ✅ Posição aberta!
+  {
+  "sinal": "SOLLONGTEST006",
+  "ativo": "LONG SOL",
+  "entrada": "$88.89",
+  "tp": "$91.87",
+  "sl": "$87.4",
+  "leverage": "10x",
+  "colateral": "$5.42",
+  "nocional": "$54.22",
+  "txs": {
+    "marketOrder": "2Eo7XY5GLHvVhqrXFLbzErRbQVL71Zqn8GJdta6zXM7ho1jdTGHiTPHvijxcbAF7rU4ubVQuKBE4WY6NbNTvuftr",
+    "takeProfit": "vJwWp7LxPv1s5A9URS5CTsaQM8d9S7TXXRb5YrV9yR4zEKFZKntpBCAwSCZHYNnSq6uU1NNdbTrGWoEjZ3xx8bM",
+    "stopLoss": "4UubszwcNxbMsCPn8t7hPRG2TDN2w6aVQy7U1ydtF59YsCnNXugdCs6oq421qPrP1yY6z34fGFYdkZT5PD4deV1s"
+  }
+}
+2026-03-20 11:01:46.545 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 11:01:47.346 [INFO ] [TRACKER] Card criado para SOL
+2026-03-20 11:02:13.203 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 11:02:13.231 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 11:02:13.232 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 11:02:15.035 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 11:02:15.482 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 11:02:22.193 [INFO ] [WEB] Cliente desconectado: Jv-HnOwDoJjsA--rAAAB
+2026-03-20 11:02:22.897 [INFO ] [WEB] Cliente conectado: oENcB6WnvpXZ1kBAAAAD
+2026-03-20 11:17:55.334 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 11:17:55.334 [INFO ] [BOT] Sinais processados nesta sessão: 1
+2026-03-20 11:17:56.177 [INFO ] [DRIFT] Desconectado.
+2026-03-20 11:17:58.933 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 11:17:58.934 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 11:17:58.934 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 11:17:58.962 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 11:17:58.963 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 11:18:00.920 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 11:18:01.403 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 11:18:01.403 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 11:18:01.524 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 11:18:01.524 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 11:18:01.524 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 11:18:01.526 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 11:18:01.526 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 11:18:01.527 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 11:18:01.529 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 11:18:02.003 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 11:18:02.329 [INFO ] [WEB] Cliente conectado: NuQ_HCn_I6meBNexAAAB
+2026-03-20 11:18:02.330 [INFO ] [TELEGRAM] Canal: "Meu" (ID: 2162078821)
+2026-03-20 11:18:02.330 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 11:18:02.331 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002162078821
+2026-03-20 11:18:05.834 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 11:18:05.863 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 11:18:05.864 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 11:18:07.897 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 11:18:21.456 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 11:18:16.895 [INFO ] [WEB] Cliente desconectado: NuQ_HCn_I6meBNexAAAB
+2026-03-20 11:18:17.541 [INFO ] [WEB] Cliente conectado: jhKDAFZPSPmCsVzWAAAD
+2026-03-20 11:18:29.489 [INFO ] [CTRL] cb:pos:refresh:SOL | User: xluffy_d (1262019048)
+2026-03-20 11:20:27.916 [INFO ] [CTRL] cb:pos:close:SOL | User: xluffy_d (1262019048)
+2026-03-20 11:20:32.751 [INFO ] [CTRL] cb:pos:close_ok:SOL | User: xluffy_d (1262019048)
+2026-03-20 11:20:33.446 [INFO ] [BOT] 🔒 Comando: fechar SOL
+2026-03-20 11:20:35.007 [INFO ] [DRIFT] Ordens de SOL canceladas
+2026-03-20 11:20:37.080 [INFO ] [DRIFT] ✅ Posição SOL fechada: 41SbCyWgKouUcVBEB8nZ1VPzKM9kyr83gv1dWzVpML2LN2eRTSW1JP5diYayxtJBy2yk2iorvNm3UNBZdFGVwFcE
+2026-03-20 11:20:37.081 [INFO ] [BOT] ✅ Posição SOL fechada via comando: 41SbCyWgKouUcVBEB8nZ1VPzKM9kyr83gv1dWzVpML2LN2eRTSW1JP5diYayxtJBy2yk2iorvNm3UNBZdFGVwFcE
+2026-03-20 11:20:55.542 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 11:21:25.177 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 11:21:25.178 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST007
+2026-03-20 11:21:25.178 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST007 validado com sucesso
+2026-03-20 11:21:25.178 [INFO ] [DRIFT] Free collateral: $109.46
+2026-03-20 11:21:25.179 [INFO ] [RISK] ── Pré-validação SOLLONGTEST007 (LONG SOL) ──
+2026-03-20 11:21:25.179 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 11:21:25.179 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 11:21:25.179 [INFO ] [RISK] R:R = 1:2.44 (risco 1.47% / recompensa 3.57%)
+2026-03-20 11:21:25.179 [INFO ] [RISK] Conta (Drift): freeCollateral=$109.46 | equity=$109.46 | posições=0 | notional=$0.00
+2026-03-20 11:21:25.179 [INFO ] [RISK] Tamanho inicial: $109.46 × 5% = $5.47
+2026-03-20 11:21:25.179 [INFO ] [RISK] Margem disponível (após 10% buffer): $98.51
+2026-03-20 11:21:25.179 [INFO ] [RISK] Exposição: atual=$0.00 + nova=$54.73 = $54.73 | limite=$87.57
+2026-03-20 11:21:25.179 [INFO ] [RISK] Ordem: 0.617003 base → snap(0.01) = 0.610000 | min=0.01 | nocional=$54.11
+2026-03-20 11:21:25.179 [INFO ] [RISK] ⚙️  Ajustes realizados: base snappeado 0.617003→0.610000 (step 0.01)
+2026-03-20 11:21:25.179 [INFO ] [RISK] ✅ Parâmetros aprovados:
+  {
+  "marketIndex": 0,
+  "alavancagem": "10x",
+  "colateral": "$5.4107",
+  "nocional": "$54.1070",
+  "base": "0.610000 SOL",
+  "RR": "1:2.44",
+  "margemLivre": "$109.46",
+  "posicoes": "1/5"
+}
+2026-03-20 11:21:25.180 [INFO ] [BOT] 🚀 Enviando para Drift Protocol...
+2026-03-20 11:21:25.180 [INFO ] [DRIFT] Tentativa 1/3 — SOLLONGTEST007
+2026-03-20 11:21:25.180 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $88.7 | TP: $91.87 | SL: $87.4 | 10x
+2026-03-20 11:21:25.180 [INFO ] [DRIFT] Colateral: precisa $5.41 | disponível $109.46 ✓
+2026-03-20 11:21:25.180 [INFO ] [DRIFT] Tamanho de ordem: 0.610000 (min 0.01, step 0.01) ✓
+2026-03-20 11:21:25.180 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 11:21:25.180 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 11:21:35.243 [INFO ] [DRIFT] ✅ Leverage configurada: 10.00x | tx: wxnBwg3KCVNjcasGQxQT6LrTWp62g5FevSMEwMMfHc7aAPLoXzYWEfk9Ecmqbczqv9UQMM735oB9T3TUufLp3TQ
+2026-03-20 11:21:35.243 [INFO ] [DRIFT] Leverage efetivamente aplicada: 10.00x
+2026-03-20 11:21:35.244 [INFO ] [DRIFT] 🔒 Tipo de margem: ISOLATED | colateral alocado: $5.4107
+2026-03-20 11:21:35.244 [INFO ] [DRIFT] Enviando market order (ISOLATED 10.00x)...
+2026-03-20 11:21:38.654 [INFO ] [DRIFT] ✅ Market order: 49Yu1HhMVekRtAfjYwWotTKiYT9JK2cXuBsAZi75G5ezfcsW7vpoCkL2zdniUeqBXiqXVosuvqsRwdY1wSgQJEa5
+2026-03-20 11:21:41.237 [WARN ] [DRIFT] Tentativa 1 falhou: Simulation failed. 
+Message: Transaction simulation failed: Blockhash not found. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+2026-03-20 11:21:41.237 [INFO ] [DRIFT] Aguardando 1000ms...
+2026-03-20 11:21:42.237 [INFO ] [DRIFT] Tentativa 2/3 — SOLLONGTEST007
+2026-03-20 11:21:42.237 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $88.7 | TP: $91.87 | SL: $87.4 | 10x
+2026-03-20 11:21:42.238 [INFO ] [DRIFT] Colateral: precisa $5.41 | disponível $104.02 ✓
+2026-03-20 11:21:42.238 [INFO ] [DRIFT] Tamanho de ordem: 0.610000 (min 0.01, step 0.01) ✓
+2026-03-20 11:21:42.238 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 11:21:42.238 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 11:21:43.629 [INFO ] [DRIFT] ✅ Leverage configurada: 10.00x | tx: 61WdkXuxrx1uwBTBveeortjD2jThYovWYMKSFhQwHs7wWMWCAbsHXk6S6YwpbZrZFk85vtzVC71CdZZdHTqF4ZfS
+2026-03-20 11:21:43.629 [INFO ] [DRIFT] Leverage efetivamente aplicada: 10.00x
+2026-03-20 11:21:43.629 [INFO ] [DRIFT] 🔒 Tipo de margem: ISOLATED | colateral alocado: $5.4107
+2026-03-20 11:21:43.629 [INFO ] [DRIFT] Enviando market order (ISOLATED 10.00x)...
+2026-03-20 11:21:45.360 [INFO ] [DRIFT] ✅ Market order: 4zi64exML81nKf4WWa2mHsWx4zkdKfgePkH6qd8b66cqBvwRdGnmLxwMXByK7K8GH4CHjJUY2vTv9PieLGUB5Kmc
+2026-03-20 11:21:49.784 [INFO ] [DRIFT] ✅ Take Profit $91.87: 4r8M4JqAfCghJiT5bnoy2bYzcPtx5qX9bpNL2hk2c3MqxwPLAqGHacj599eT2PCf7VFN1aTscdhQykRiparTe9KE
+2026-03-20 11:21:50.619 [WARN ] [DRIFT] Tentativa 2 falhou: Simulation failed. 
+Message: Transaction simulation failed: Blockhash not found. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+2026-03-20 11:21:50.620 [INFO ] [DRIFT] Aguardando 2000ms...
+2026-03-20 11:21:52.620 [INFO ] [DRIFT] Tentativa 3/3 — SOLLONGTEST007
+2026-03-20 11:21:52.620 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $88.7 | TP: $91.87 | SL: $87.4 | 10x
+2026-03-20 11:21:52.620 [INFO ] [DRIFT] Colateral: precisa $5.41 | disponível $98.58 ✓
+2026-03-20 11:21:52.620 [INFO ] [DRIFT] Tamanho de ordem: 0.610000 (min 0.01, step 0.01) ✓
+2026-03-20 11:21:52.620 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 11:21:52.620 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 11:21:55.868 [INFO ] [DRIFT] ✅ Leverage configurada: 10.00x | tx: 5QZwL5Pamyff73watcNJBNFGRT2CCUgD9EpcnTToWUuoSBbzXfPz8cXMqtji23mCo5y9QZr7HmChdE2xpU23dgc1
+2026-03-20 11:21:55.868 [INFO ] [DRIFT] Leverage efetivamente aplicada: 10.00x
+2026-03-20 11:21:55.868 [INFO ] [DRIFT] 🔒 Tipo de margem: ISOLATED | colateral alocado: $5.4107
+2026-03-20 11:21:55.868 [INFO ] [DRIFT] Enviando market order (ISOLATED 10.00x)...
+2026-03-20 11:21:57.963 [INFO ] [DRIFT] ✅ Market order: 2ng5WfYzfbLJDLMQVLCDFwVMzHx25gJowKHbL8J6eXRa9cLMUfbU8Wc4hAoQnca6KxCpMeKPoCQkYTy81H26DmJj
+2026-03-20 11:22:00.863 [INFO ] [DRIFT] ✅ Take Profit $91.87: 4x96mVaWfguJnLaUJgL6viHQXc8nmrvN3zQrpt8z7F4dAcTMS8XMTenoBH9cKV4TTYUPFLvLkRgMeDjQogK3cuPe
+2026-03-20 11:22:01.597 [INFO ] [DRIFT] ✅ Stop Loss $87.4: 55XsYJYewQSnVP8qcWeGTyC89M14F99CYdZZcfZ99yAnpG4A5RJNhdnTtwB8yFGVp1Rw9BncN4BorZEnwrE3J42w
+2026-03-20 11:22:01.597 [INFO ] [DRIFT] 🎯 Posição completa!
+  {
+  "marketOrder": "https://solscan.io/tx/2ng5WfYzfbLJDLMQVLCDFwVMzHx25gJowKHbL8J6eXRa9cLMUfbU8Wc4hAoQnca6KxCpMeKPoCQkYTy81H26DmJj",
+  "takeProfit": "https://solscan.io/tx/4x96mVaWfguJnLaUJgL6viHQXc8nmrvN3zQrpt8z7F4dAcTMS8XMTenoBH9cKV4TTYUPFLvLkRgMeDjQogK3cuPe",
+  "stopLoss": "https://solscan.io/tx/55XsYJYewQSnVP8qcWeGTyC89M14F99CYdZZcfZ99yAnpG4A5RJNhdnTtwB8yFGVp1Rw9BncN4BorZEnwrE3J42w"
+}
+2026-03-20 11:22:01.598 [INFO ] [BOT] ✅ Posição aberta!
+  {
+  "sinal": "SOLLONGTEST007",
+  "ativo": "LONG SOL",
+  "entrada": "$88.7",
+  "tp": "$91.87",
+  "sl": "$87.4",
+  "leverage": "10x",
+  "colateral": "$5.41",
+  "nocional": "$54.11",
+  "txs": {
+    "marketOrder": "2ng5WfYzfbLJDLMQVLCDFwVMzHx25gJowKHbL8J6eXRa9cLMUfbU8Wc4hAoQnca6KxCpMeKPoCQkYTy81H26DmJj",
+    "takeProfit": "4x96mVaWfguJnLaUJgL6viHQXc8nmrvN3zQrpt8z7F4dAcTMS8XMTenoBH9cKV4TTYUPFLvLkRgMeDjQogK3cuPe",
+    "stopLoss": "55XsYJYewQSnVP8qcWeGTyC89M14F99CYdZZcfZ99yAnpG4A5RJNhdnTtwB8yFGVp1Rw9BncN4BorZEnwrE3J42w"
+  }
+}
+2026-03-20 11:22:01.599 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 11:22:01.931 [INFO ] [TRACKER] Card criado para SOL
+2026-03-20 11:27:41.298 [INFO ] [CTRL] cb:pos:close:SOL | User: xluffy_d (1262019048)
+2026-03-20 11:27:43.636 [INFO ] [CTRL] cb:pos:close_ok:SOL | User: xluffy_d (1262019048)
+2026-03-20 11:27:57.383 [INFO ] [BOT] 🔒 Comando: fechar SOL
+2026-03-20 11:27:47.987 [INFO ] [DRIFT] Ordens de SOL canceladas
+2026-03-20 11:27:50.291 [INFO ] [DRIFT] ✅ Posição SOL fechada: 5aHYNj552gB8pXM9kLuYzPLKwRh4JwoVCxtu1AfHurvZ6RgJFtsFxdydvfH7kQVDaKKkXbe2oK4F1nFhHeK1ybuw
+2026-03-20 11:27:50.291 [INFO ] [BOT] ✅ Posição SOL fechada via comando: 5aHYNj552gB8pXM9kLuYzPLKwRh4JwoVCxtu1AfHurvZ6RgJFtsFxdydvfH7kQVDaKKkXbe2oK4F1nFhHeK1ybuw
+2026-03-20 11:28:21.398 [INFO ] [TRACKER] Posição SOL fechada — card removido
+2026-03-20 11:47:43.361 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 11:47:43.361 [INFO ] [BOT] Sinais processados nesta sessão: 1
+2026-03-20 11:47:44.393 [INFO ] [DRIFT] Desconectado.
+2026-03-20 11:48:55.674 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 11:48:55.676 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST008
+2026-03-20 11:48:55.676 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST008 validado com sucesso
+2026-03-20 11:48:55.677 [INFO ] [DRIFT] Free collateral: $110.26
+2026-03-20 11:48:55.678 [INFO ] [RISK] Calculando parâmetros para SOLLONGTEST008...
+2026-03-20 11:48:55.678 [INFO ] [RISK] Parâmetros calculados:
+  {
+  "alavancagem": "10x",
+  "posicaoUSD": "$11.0263",
+  "nocionalUSD": "$110.2629",
+  "riscoPercent": "1.15%",
+  "recompensaPercent": "3.85%",
+  "RR": "1:3.34"
+}
+2026-03-20 11:48:55.678 [INFO ] [BOT] 🚀 Enviando para Drift Protocol...
+2026-03-20 11:48:55.678 [INFO ] [DRIFT] Tentativa 1/3 — SOLLONGTEST008
+2026-03-20 11:48:55.678 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $89.43 | TP: $92.87 | SL: $88.4 | 10x
+2026-03-20 11:48:55.678 [INFO ] [DRIFT] Enviando market order...
+2026-03-20 11:48:56.983 [INFO ] [DRIFT] ✅ Market order: QNaQ42E8tRv46He76saXqqULcdDojVZDHiiAgifpv4jSUgbuHsNBgHzWPvvGy7M5UwuodRBMihfkq4iH4PteNGp
+2026-03-20 11:48:59.950 [INFO ] [DRIFT] ✅ Take Profit $92.87: 4CJwrpo1dFg8VvRwzv4AfYYrEbJ5bWgEBVxgUrN2aYJwKyiesSiqjix1CcHUUBxauAqiyzJ9XZnuDrDLyFKJNqAY
+2026-03-20 11:49:02.009 [INFO ] [DRIFT] ✅ Stop Loss $88.4: 2VdsZfkr3WrETgi5NEzLMqi7jWTfhfwfRFQcoUbwxDZF7ootbvpPe79XGAgR9oEo4WyqiyvoTzHHRR4Nrwnkxv6B
+2026-03-20 11:49:02.010 [INFO ] [DRIFT] 🎯 Posição completa!
+  {
+  "marketOrder": "https://solscan.io/tx/QNaQ42E8tRv46He76saXqqULcdDojVZDHiiAgifpv4jSUgbuHsNBgHzWPvvGy7M5UwuodRBMihfkq4iH4PteNGp",
+  "takeProfit": "https://solscan.io/tx/4CJwrpo1dFg8VvRwzv4AfYYrEbJ5bWgEBVxgUrN2aYJwKyiesSiqjix1CcHUUBxauAqiyzJ9XZnuDrDLyFKJNqAY",
+  "stopLoss": "https://solscan.io/tx/2VdsZfkr3WrETgi5NEzLMqi7jWTfhfwfRFQcoUbwxDZF7ootbvpPe79XGAgR9oEo4WyqiyvoTzHHRR4Nrwnkxv6B"
+}
+2026-03-20 11:49:02.010 [INFO ] [BOT] ✅ Posição aberta!
+  {
+  "sinal": "SOLLONGTEST008",
+  "ativo": "LONG SOL",
+  "entrada": "$89.43",
+  "tp": "$92.87",
+  "sl": "$88.4",
+  "leverage": "10x",
+  "colateral": "$11.03",
+  "nocional": "$110.26",
+  "txs": {
+    "marketOrder": "QNaQ42E8tRv46He76saXqqULcdDojVZDHiiAgifpv4jSUgbuHsNBgHzWPvvGy7M5UwuodRBMihfkq4iH4PteNGp",
+    "takeProfit": "4CJwrpo1dFg8VvRwzv4AfYYrEbJ5bWgEBVxgUrN2aYJwKyiesSiqjix1CcHUUBxauAqiyzJ9XZnuDrDLyFKJNqAY",
+    "stopLoss": "2VdsZfkr3WrETgi5NEzLMqi7jWTfhfwfRFQcoUbwxDZF7ootbvpPe79XGAgR9oEo4WyqiyvoTzHHRR4Nrwnkxv6B"
+  }
+}
+2026-03-20 11:49:02.010 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 11:49:04.008 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 11:49:04.009 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 11:49:04.009 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 11:49:04.035 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 11:49:04.036 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 11:49:05.980 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 11:49:19.525 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 11:49:19.525 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 11:49:06.545 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 11:49:06.545 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 11:49:06.545 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 11:49:06.547 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 11:49:06.548 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 11:49:06.549 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 11:49:06.551 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 11:49:07.029 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 11:49:07.063 [INFO ] [WEB] Cliente conectado: DpqzhIHXpqkJx5-AAAAB
+2026-03-20 11:49:07.268 [INFO ] [TELEGRAM] Canal: "Meu" (ID: 2162078821)
+2026-03-20 11:49:07.268 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 11:49:07.269 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002162078821
+2026-03-20 11:49:09.382 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 11:49:09.382 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST008
+2026-03-20 11:49:09.383 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST008 validado com sucesso
+2026-03-20 11:49:09.383 [INFO ] [DRIFT] Free collateral: $99.25
+2026-03-20 11:49:09.384 [INFO ] [RISK] ── Pré-validação SOLLONGTEST008 (LONG SOL) ──
+2026-03-20 11:49:09.384 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 11:49:09.384 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 11:49:09.384 [INFO ] [RISK] R:R = 1:3.34 (risco 1.15% / recompensa 3.85%)
+2026-03-20 11:49:09.385 [INFO ] [RISK] Conta (Drift): freeCollateral=$99.25 | equity=$110.26 | posições=1 | notional=$0.00
+2026-03-20 11:49:09.385 [INFO ] [SIZING] equity=110.26 pct=0.05 leverage=10
+2026-03-20 11:49:09.385 [INFO ] [SIZING] targetMargin=5.51
+2026-03-20 11:49:09.385 [INFO ] [SIZING] targetNotional=55.13
+2026-03-20 11:49:09.385 [INFO ] [RISK] Margem disponível (após 10% buffer): $89.32
+2026-03-20 11:49:09.385 [INFO ] [RISK] Exposição: atual=$0.00 + nova=$55.13 = $55.13 | limite=$88.21
+2026-03-20 11:49:09.385 [INFO ] [RISK] Ordem: 0.616476 base → snap(0.01) = 0.610000 | min=0.01 | nocional=$54.55
+2026-03-20 11:49:09.385 [INFO ] [RISK] ⚙️  Ajustes realizados: base snappeado 0.616476→0.610000 (step 0.01)
+2026-03-20 11:49:09.385 [INFO ] [RISK] ✅ Parâmetros aprovados:
+  {
+  "marketIndex": 0,
+  "alavancagem": "10x",
+  "colateral": "$5.4552",
+  "nocional": "$54.5523",
+  "base": "0.610000 SOL",
+  "RR": "1:3.34",
+  "margemLivre": "$99.25",
+  "posicoes": "2/5"
+}
+2026-03-20 11:49:09.385 [INFO ] [BOT] 🚀 Enviando para Drift Protocol...
+2026-03-20 11:49:09.386 [INFO ] [DRIFT] Tentativa 1/3 — SOLLONGTEST008
+2026-03-20 11:49:09.386 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $89.43 | TP: $92.87 | SL: $88.4 | 10x
+2026-03-20 11:49:09.386 [INFO ] [DRIFT] Colateral: precisa $5.46 | disponível $99.25 ✓
+2026-03-20 11:49:09.386 [INFO ] [DRIFT] Tamanho de ordem: 0.610000 (min 0.01, step 0.01) ✓
+2026-03-20 11:49:09.386 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 11:49:09.387 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 11:49:10.239 [WARN ] [DRIFT] Tentativa 1 falhou: Simulation failed. 
+Message: Transaction simulation failed: Blockhash not found. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+2026-03-20 11:49:10.239 [INFO ] [DRIFT] Aguardando 1000ms...
+2026-03-20 11:49:11.240 [INFO ] [DRIFT] Tentativa 2/3 — SOLLONGTEST008
+2026-03-20 11:49:11.240 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $89.43 | TP: $92.87 | SL: $88.4 | 10x
+2026-03-20 11:49:11.240 [INFO ] [DRIFT] Colateral: precisa $5.46 | disponível $99.26 ✓
+2026-03-20 11:49:11.241 [INFO ] [DRIFT] Tamanho de ordem: 0.610000 (min 0.01, step 0.01) ✓
+2026-03-20 11:49:11.241 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 11:49:11.241 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 11:49:11.796 [WARN ] [DRIFT] Tentativa 2 falhou: Simulation failed. 
+Message: Transaction simulation failed: Blockhash not found. 
+Logs: 
+[]. 
+Catch the `SendTransactionError` and call `getLogs()` on it for full details.
+2026-03-20 11:49:11.796 [INFO ] [DRIFT] Aguardando 2000ms...
+2026-03-20 11:49:13.796 [INFO ] [DRIFT] Tentativa 3/3 — SOLLONGTEST008
+2026-03-20 11:49:13.797 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $89.43 | TP: $92.87 | SL: $88.4 | 10x
+2026-03-20 11:49:13.797 [INFO ] [DRIFT] Colateral: precisa $5.46 | disponível $99.26 ✓
+2026-03-20 11:49:13.797 [INFO ] [DRIFT] Tamanho de ordem: 0.610000 (min 0.01, step 0.01) ✓
+2026-03-20 11:49:13.797 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 11:49:13.798 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 11:49:16.045 [INFO ] [DRIFT] ✅ Leverage configurada: 10.00x | tx: xFTEYDgU4SWDxAYi3MrUSapUZpuy6JELRf74bjbrfFRdxYDgTzjAPKTV1srWboWYZeR6HKvh4eiCfAMbZ4R7bXj
+2026-03-20 11:49:16.045 [INFO ] [DRIFT] Leverage efetivamente aplicada: 10.00x
+2026-03-20 11:49:16.045 [INFO ] [DRIFT] 🔒 Tipo de margem: ISOLATED | colateral alocado: $5.4552
+2026-03-20 11:49:16.045 [INFO ] [DRIFT] Enviando market order (ISOLATED 10.00x)...
+2026-03-20 11:49:17.713 [INFO ] [DRIFT] ✅ Market order: 33WNuPimS1dkkShjMfgF7hHVXDEUJHjFgYJ9Jpz7VyUMNPc5JESjbExYqaY6mrKuMQez5CjhvfLT14LRZ8AGXjKE
+2026-03-20 11:49:23.050 [INFO ] [DRIFT] ✅ Take Profit $92.87: vpGneET8k4z7ejsLEWnibS16N9mfNDKACjfGAvLgTMc6PEzdFTKtgScSmvtL2NKApZAobJcvPJSMfs9nRUMkAwv
+2026-03-20 11:49:23.951 [INFO ] [DRIFT] ✅ Stop Loss $88.4: 3VzcLFVqEgiYzJrT38WynhcoMWMygZ4TUSez98SxQQz4DqSYJa4YzmPT4v4gNHkqCxZfBZrWXB5D1N3M6d3prE4u
+2026-03-20 11:49:23.951 [INFO ] [DRIFT] 🎯 Posição completa!
+  {
+  "marketOrder": "https://solscan.io/tx/33WNuPimS1dkkShjMfgF7hHVXDEUJHjFgYJ9Jpz7VyUMNPc5JESjbExYqaY6mrKuMQez5CjhvfLT14LRZ8AGXjKE",
+  "takeProfit": "https://solscan.io/tx/vpGneET8k4z7ejsLEWnibS16N9mfNDKACjfGAvLgTMc6PEzdFTKtgScSmvtL2NKApZAobJcvPJSMfs9nRUMkAwv",
+  "stopLoss": "https://solscan.io/tx/3VzcLFVqEgiYzJrT38WynhcoMWMygZ4TUSez98SxQQz4DqSYJa4YzmPT4v4gNHkqCxZfBZrWXB5D1N3M6d3prE4u"
+}
+2026-03-20 11:49:23.963 [INFO ] [BOT] ✅ Posição aberta!
+  {
+  "sinal": "SOLLONGTEST008",
+  "ativo": "LONG SOL",
+  "entrada": "$89.43",
+  "tp": "$92.87",
+  "sl": "$88.4",
+  "leverage": "10x",
+  "colateral": "$5.46",
+  "nocional": "$54.55",
+  "txs": {
+    "marketOrder": "33WNuPimS1dkkShjMfgF7hHVXDEUJHjFgYJ9Jpz7VyUMNPc5JESjbExYqaY6mrKuMQez5CjhvfLT14LRZ8AGXjKE",
+    "takeProfit": "vpGneET8k4z7ejsLEWnibS16N9mfNDKACjfGAvLgTMc6PEzdFTKtgScSmvtL2NKApZAobJcvPJSMfs9nRUMkAwv",
+    "stopLoss": "3VzcLFVqEgiYzJrT38WynhcoMWMygZ4TUSez98SxQQz4DqSYJa4YzmPT4v4gNHkqCxZfBZrWXB5D1N3M6d3prE4u"
+  }
+}
+2026-03-20 11:49:23.964 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 11:49:24.686 [INFO ] [TRACKER] Card criado para SOL
+2026-03-20 11:53:51.735 [INFO ] [CTRL] cb:pos:close:SOL | User: xluffy_d (1262019048)
+2026-03-20 11:53:53.037 [INFO ] [CTRL] cb:pos:close_ok:SOL | User: xluffy_d (1262019048)
+2026-03-20 11:53:53.676 [INFO ] [BOT] 🔒 Comando: fechar SOL
+2026-03-20 11:53:55.740 [INFO ] [DRIFT] Ordens de SOL canceladas
+2026-03-20 11:53:57.574 [INFO ] [DRIFT] ✅ Posição SOL fechada: 3uoLtSgHmY5pzjgexcLeSSHE1d5yK3d31DZtSYk4Z4iNhWYKhDXj4FuBDUos9DpogDCXzwF91rP6dZmBukP5zwHi
+2026-03-20 11:53:57.575 [INFO ] [BOT] ✅ Posição SOL fechada via comando: 3uoLtSgHmY5pzjgexcLeSSHE1d5yK3d31DZtSYk4Z4iNhWYKhDXj4FuBDUos9DpogDCXzwF91rP6dZmBukP5zwHi
+2026-03-20 11:54:14.527 [INFO ] [CTRL] cb:menu:balance | User: xluffy_d (1262019048)
+2026-03-20 11:54:15.997 [INFO ] [TRACKER] Posição SOL fechada — card removido
+2026-03-20 11:54:17.729 [INFO ] [CTRL] /pnl | User: xluffy_d (1262019048)
+2026-03-20 11:54:26.705 [INFO ] [CTRL] /pnl | User: xluffy_d (1262019048)
+2026-03-20 11:54:32.031 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 11:54:38.133 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 11:54:41.412 [INFO ] [CTRL] cb:menu:pnl | User: xluffy_d (1262019048)
+2026-03-20 11:54:44.625 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 11:54:49.662 [INFO ] [CTRL] cb:menu:config | User: xluffy_d (1262019048)
+2026-03-20 11:54:53.397 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 11:54:56.277 [INFO ] [CTRL] cb:menu:balance | User: xluffy_d (1262019048)
+2026-03-20 12:02:53.652 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 12:02:53.652 [INFO ] [BOT] Sinais processados nesta sessão: 1
+2026-03-20 12:02:54.367 [INFO ] [DRIFT] Desconectado.
+2026-03-20 12:02:57.147 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 12:02:57.148 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 12:02:57.148 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 12:02:57.177 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 12:02:57.179 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 12:02:59.239 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 12:02:59.631 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 12:02:59.632 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 12:02:59.774 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 12:02:59.774 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 12:02:59.774 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 12:02:59.775 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 12:02:59.776 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 12:02:59.776 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 12:02:59.778 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 12:03:00.256 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 12:03:00.503 [INFO ] [TELEGRAM] Canal: "Meu" (ID: 2162078821)
+2026-03-20 12:03:00.504 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 12:03:00.504 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002162078821
+2026-03-20 12:03:01.056 [INFO ] [WEB] Cliente conectado: 6AwzRxqrkj0ywOReAAAB
+2026-03-20 12:03:09.740 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 12:03:09.765 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 12:03:09.766 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 12:03:11.580 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 12:03:11.953 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 12:04:07.044 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 12:04:07.044 [INFO ] [BOT] 📩 Sinal detectado: SOLLONGTEST009
+2026-03-20 12:04:07.044 [INFO ] [PARSER] ✅ Sinal SOLLONGTEST009 validado com sucesso
+2026-03-20 12:04:07.045 [INFO ] [DRIFT] Free collateral: $109.55
+2026-03-20 12:04:07.045 [INFO ] [RISK] ── Pré-validação SOLLONGTEST009 (LONG SOL) ──
+2026-03-20 12:04:07.045 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 12:04:07.045 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 12:04:07.045 [INFO ] [RISK] R:R = 1:2.19 (risco 1.58% / recompensa 3.46%)
+2026-03-20 12:04:07.046 [INFO ] [RISK] Conta (Drift): freeCollateral=$109.55 | equity=$109.55 | posições=0 | notional=$0.00
+2026-03-20 12:04:07.046 [INFO ] [SIZING] equity=109.55 pct=0.1 leverage=10
+2026-03-20 12:04:07.046 [INFO ] [SIZING] targetMargin=10.96
+2026-03-20 12:04:07.046 [INFO ] [SIZING] targetNotional=109.55
+2026-03-20 12:04:07.046 [INFO ] [RISK] Margem disponível (após 10% buffer): $98.60
+2026-03-20 12:04:07.046 [INFO ] [RISK] Exposição: atual=$0.00 + nova=$109.55 = $109.55 | limite=$87.64
+2026-03-20 12:04:07.046 [WARN ] [RISK] ⚠️  Colateral reduzido por exposição máxima: $10.96 → $8.76
+2026-03-20 12:04:07.046 [INFO ] [RISK] Ordem: 0.986953 base → snap(0.01) = 0.980000 | min=0.01 | nocional=$87.02
+2026-03-20 12:04:07.046 [INFO ] [RISK] ⚙️  Ajustes realizados: colateral reduzido $10.96→$8.76 (exposição máxima) | base snappeado 0.986953→0.980000 (step 0.01)
+2026-03-20 12:04:07.046 [INFO ] [RISK] ✅ Parâmetros aprovados:
+  {
+  "marketIndex": 0,
+  "alavancagem": "10x",
+  "colateral": "$8.7024",
+  "nocional": "$87.0240",
+  "base": "0.980000 SOL",
+  "RR": "1:2.19",
+  "margemLivre": "$109.55",
+  "posicoes": "1/5"
+}
+2026-03-20 12:04:07.046 [INFO ] [BOT] 🚀 Enviando para Drift Protocol...
+2026-03-20 12:04:07.047 [INFO ] [DRIFT] Tentativa 1/3 — SOLLONGTEST009
+2026-03-20 12:04:07.047 [INFO ] [DRIFT] Abrindo LONG SOL | Entrada: $88.8 | TP: $91.87 | SL: $87.4 | 10x
+2026-03-20 12:04:07.047 [INFO ] [DRIFT] Colateral: precisa $8.70 | disponível $109.55 ✓
+2026-03-20 12:04:07.047 [INFO ] [DRIFT] Tamanho de ordem: 0.980000 (min 0.01, step 0.01) ✓
+2026-03-20 12:04:07.047 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 12:04:07.047 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 12:04:14.126 [INFO ] [DRIFT] ✅ Leverage configurada: 10.00x | tx: 3JjqmwBVREq4U9rLg8zLD5zhwcvVyPLxKGnzojig7nFiXTJLx7rWPK1Z2YCQeGDguMjU4DTNb1kL3ehfYSpjKz7T
+2026-03-20 12:04:14.126 [INFO ] [DRIFT] Leverage efetivamente aplicada: 10.00x
+2026-03-20 12:04:14.126 [INFO ] [DRIFT] 🔒 Tipo de margem: ISOLATED | colateral alocado: $8.7024
+2026-03-20 12:04:14.127 [INFO ] [DRIFT] Enviando market order (ISOLATED 10.00x)...
+2026-03-20 12:04:16.074 [INFO ] [DRIFT] ✅ Market order: 5fAuqpbUBX4rsasLHTLXKYgWJyV7aYvYi7goj4tgtKTG3DDiUcjetujewwjgD7NivBf8ixmtT21gzEZuZKkey3Uo
+2026-03-20 12:04:20.184 [INFO ] [DRIFT] ✅ Take Profit $91.87: 2hYdJUvcTUHyarrq6yDQX3v9LqSTas4bSK1yapJLCmcGw3Csnt7hfcXFZpYUvgGnnYjYfGFsxyV6GYq3cutPCyp5
+2026-03-20 12:04:21.410 [INFO ] [DRIFT] ✅ Stop Loss $87.4: 5QREHFDpNxwYqA7wapvhEgEboqwTHjqd8QcAMFG3UwwNTRpkxYvJCt2aBDhZwV3iGNvQLohK48F4wgtUwLAdjmjf
+2026-03-20 12:04:21.410 [INFO ] [DRIFT] 🎯 Posição completa!
+  {
+  "marketOrder": "https://solscan.io/tx/5fAuqpbUBX4rsasLHTLXKYgWJyV7aYvYi7goj4tgtKTG3DDiUcjetujewwjgD7NivBf8ixmtT21gzEZuZKkey3Uo",
+  "takeProfit": "https://solscan.io/tx/2hYdJUvcTUHyarrq6yDQX3v9LqSTas4bSK1yapJLCmcGw3Csnt7hfcXFZpYUvgGnnYjYfGFsxyV6GYq3cutPCyp5",
+  "stopLoss": "https://solscan.io/tx/5QREHFDpNxwYqA7wapvhEgEboqwTHjqd8QcAMFG3UwwNTRpkxYvJCt2aBDhZwV3iGNvQLohK48F4wgtUwLAdjmjf"
+}
+2026-03-20 12:04:21.423 [INFO ] [BOT] ✅ Posição aberta!
+  {
+  "sinal": "SOLLONGTEST009",
+  "ativo": "LONG SOL",
+  "entrada": "$88.8",
+  "tp": "$91.87",
+  "sl": "$87.4",
+  "leverage": "10x",
+  "colateral": "$8.70",
+  "nocional": "$87.02",
+  "txs": {
+    "marketOrder": "5fAuqpbUBX4rsasLHTLXKYgWJyV7aYvYi7goj4tgtKTG3DDiUcjetujewwjgD7NivBf8ixmtT21gzEZuZKkey3Uo",
+    "takeProfit": "2hYdJUvcTUHyarrq6yDQX3v9LqSTas4bSK1yapJLCmcGw3Csnt7hfcXFZpYUvgGnnYjYfGFsxyV6GYq3cutPCyp5",
+    "stopLoss": "5QREHFDpNxwYqA7wapvhEgEboqwTHjqd8QcAMFG3UwwNTRpkxYvJCt2aBDhZwV3iGNvQLohK48F4wgtUwLAdjmjf"
+  }
+}
+2026-03-20 12:04:21.424 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 12:04:22.181 [INFO ] [TRACKER] Card criado para SOL
+2026-03-20 12:05:55.232 [INFO ] [WEB] Cliente desconectado: 6AwzRxqrkj0ywOReAAAB
+2026-03-20 12:05:55.724 [INFO ] [WEB] Cliente conectado: 2MezowfudDXOFk4tAAAD
+2026-03-20 12:06:30.292 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 12:06:30.292 [INFO ] [BOT] Sinais processados nesta sessão: 1
+2026-03-20 12:06:31.028 [INFO ] [DRIFT] Desconectado.
+2026-03-20 12:06:33.347 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 12:06:33.348 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 12:06:33.348 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 12:06:33.375 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 12:06:33.376 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 12:06:35.245 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 12:06:35.715 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 12:06:35.715 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 12:06:35.840 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 12:06:35.840 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 12:06:35.840 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 12:06:35.842 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 12:06:35.842 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 12:06:35.843 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 12:06:35.845 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 12:06:36.327 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 12:06:36.574 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 12:06:36.575 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 12:06:36.575 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 12:06:37.062 [INFO ] [WEB] Cliente conectado: GWEGYW3ga6KrG2YtAAAB
+2026-03-20 12:07:25.043 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 12:07:25.044 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 12:07:25.844 [WARN ] [BOT] Account poll erro: You must call `subscribe` before using this function
+2026-03-20 12:07:25.880 [INFO ] [DRIFT] Desconectado.
+2026-03-20 12:07:27.508 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 12:07:27.510 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 12:07:27.510 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 12:07:27.537 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 12:07:27.538 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 12:07:29.678 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 12:07:30.117 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 12:07:30.118 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 12:07:30.248 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 12:07:30.248 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 12:07:30.248 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 12:07:30.250 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 12:07:30.251 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 12:07:30.252 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 12:07:30.254 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 12:07:30.730 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 12:07:30.966 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 12:07:30.966 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 12:07:30.967 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 12:07:32.056 [INFO ] [WEB] Cliente conectado: TnStyQ5BDM6MLmnhAAAB
+2026-03-20 12:07:36.208 [INFO ] [WEB] Cliente desconectado: TnStyQ5BDM6MLmnhAAAB
+2026-03-20 12:07:36.418 [INFO ] [WEB] Cliente conectado: GyIqRFBrRWCsLJetAAAD
+2026-03-20 12:42:23.571 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 12:42:19.476 [INFO ] [CTRL] cb:menu:signals | User: xluffy_d (1262019048)
+2026-03-20 12:42:32.474 [INFO ] [CTRL] /start | User: xluffy_d (1262019048)
+2026-03-20 12:43:16.116 [INFO ] [CTRL] cb:menu:positions | User: xluffy_d (1262019048)
+2026-03-20 12:43:21.699 [INFO ] [CTRL] cb:pos:view:SOL | User: xluffy_d (1262019048)
+2026-03-20 14:10:58.417 [INFO ] [CTRL] cb:pos:refresh:SOL | User: xluffy_d (1262019048)
+2026-03-20 17:12:20.057 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 17:12:20.062 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 17:12:20.817 [INFO ] [DRIFT] Desconectado.
+2026-03-20 17:12:14.872 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 17:12:14.873 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 17:12:14.873 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 17:12:14.922 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 17:12:14.923 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 17:12:16.899 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 17:12:17.299 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 17:12:17.299 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 17:12:17.501 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 17:12:17.501 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 17:12:17.501 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 17:12:17.504 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 17:12:17.504 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 17:12:17.505 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 17:12:17.508 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 17:12:17.973 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 17:12:18.211 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 17:12:18.212 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 17:12:18.212 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 17:12:19.001 [INFO ] [WEB] Cliente conectado: G6MagBdt9ka0oRp2AAAB
+2026-03-20 18:20:20.933 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 18:20:20.934 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 18:20:20.935 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 18:20:20.962 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 18:20:20.964 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 18:20:22.999 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 18:20:23.426 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 18:20:23.426 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 18:20:36.784 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 18:20:36.784 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 18:20:36.784 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 18:20:36.787 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 18:20:36.787 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 18:20:36.788 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 18:20:36.790 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 18:20:23.985 [INFO ] [WEB] Cliente conectado: Tv95wTWRQICwULn5AAAB
+2026-03-20 18:20:24.064 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 18:20:24.302 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 18:20:24.302 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 18:20:24.303 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 18:20:44.203 [INFO ] [WEB] Cliente conectado: 9bEWJv11uUTkBiGPAAAD
+2026-03-20 18:20:44.205 [INFO ] [WEB] Cliente desconectado: 9bEWJv11uUTkBiGPAAAD
+2026-03-20 18:21:05.059 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 18:21:05.060 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 18:21:06.165 [INFO ] [DRIFT] Desconectado.
+2026-03-20 18:21:18.050 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 18:21:18.051 [INFO ] [BOT] Modo paper — Drift não será inicializado
+2026-03-20 18:21:18.200 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 18:21:18.201 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 18:21:18.201 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 18:21:18.202 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 18:21:18.202 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 18:21:18.203 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 18:21:18.207 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 18:21:18.771 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 18:21:18.992 [INFO ] [WEB] Cliente conectado: c61Hd7aU_ARN2OYxAAAB
+2026-03-20 18:21:19.103 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 18:21:19.103 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 18:21:19.104 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 18:21:29.701 [INFO ] [WEB] Cliente conectado: pkvNkhKkrH9E7OY4AAAD
+2026-03-20 18:21:56.901 [INFO ] [WEB] Cliente desconectado: pkvNkhKkrH9E7OY4AAAD
+2026-03-20 18:21:44.142 [INFO ] [WEB] Cliente conectado: 5A5HcqrZ6tMWXeZrAAAF
+2026-03-20 18:22:10.029 [INFO ] [WEB] Cliente conectado: m2G1wLSAT-rLQqogAAAH
+2026-03-20 18:22:10.048 [INFO ] [STATE] Bot pausado ⏸
+2026-03-20 18:22:10.049 [INFO ] [WEB] Comando: pausar
+2026-03-20 18:22:10.054 [INFO ] [STATE] Bot retomado ▶
+2026-03-20 18:22:10.054 [INFO ] [WEB] Comando: retomar
+2026-03-20 18:22:10.061 [INFO ] [STATE] Auto-trading desativado ❌
+2026-03-20 18:22:10.061 [INFO ] [WEB] Comando: auto-trading OFF
+2026-03-20 18:22:10.066 [INFO ] [STATE] Auto-trading ativado ✅
+2026-03-20 18:22:10.067 [INFO ] [WEB] Comando: auto-trading ON
+2026-03-20 18:22:10.073 [INFO ] [WEB] Comando: fechar ETH
+2026-03-20 18:22:10.073 [INFO ] [BOT] 🔒 Comando: fechar ETH
+2026-03-20 18:22:10.074 [INFO ] [PAPER] 📝 Fechando posição ETH (simulado)
+2026-03-20 18:22:10.074 [INFO ] [BOT] ✅ Posição ETH fechada via comando: PAPER_CLOSE_1774041730074
+2026-03-20 18:22:10.076 [INFO ] [WEB] Comando: fechar todas as posições
+2026-03-20 18:22:10.077 [INFO ] [BOT] 🔒 Comando: fechar TODAS as posições
+2026-03-20 18:22:10.077 [INFO ] [PAPER] 📝 Fechando todas as posições (simulado)
+2026-03-20 18:22:10.078 [INFO ] [BOT] ✅ Close all: 0/0 fechadas
+2026-03-20 18:22:10.480 [INFO ] [WEB] Cliente desconectado: m2G1wLSAT-rLQqogAAAH
+2026-03-20 18:22:17.890 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 21:04:01.398 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 21:04:01.399 [INFO ] [BOT] Modo paper — Drift não será inicializado
+2026-03-20 21:04:01.601 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 21:04:01.601 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 21:04:01.602 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 21:04:01.602 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 21:04:01.602 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 21:04:01.603 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 21:04:01.607 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 21:04:02.096 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 21:04:02.342 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 21:04:02.343 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 21:04:02.343 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 21:04:05.982 [INFO ] [WEB] Cliente conectado: L1_RVWskOBpjfzAEAAAB
+2026-03-20 21:09:32.281 [INFO ] [WEB] Cliente desconectado: L1_RVWskOBpjfzAEAAAB
+2026-03-20 21:09:32.794 [INFO ] [WEB] Cliente conectado: ZH2XRflWjOS4aL7TAAAD
+2026-03-20 21:09:35.458 [INFO ] [WEB] Cliente desconectado: ZH2XRflWjOS4aL7TAAAD
+2026-03-20 21:09:35.841 [INFO ] [WEB] Cliente conectado: l1-UkslnxnH8FHRBAAAF
+2026-03-20 21:09:57.810 [INFO ] [WEB] Cliente desconectado: l1-UkslnxnH8FHRBAAAF
+2026-03-20 21:09:44.988 [INFO ] [WEB] Cliente conectado: X7uYTOH-Hy5hPCzRAAAH
+2026-03-20 21:11:40.597 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 21:11:51.322 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 21:11:51.323 [INFO ] [BOT] Modo paper — Drift não será inicializado
+2026-03-20 21:11:51.475 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 21:11:51.475 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 21:11:51.475 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 21:11:51.476 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 21:11:51.476 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 21:11:51.477 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 21:11:51.481 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 21:11:51.961 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 21:11:52.220 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 21:11:52.221 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 21:11:52.221 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 21:11:56.704 [INFO ] [WEB] Cliente conectado: BUGWqQkvnEXEMjkrAAAB
+2026-03-20 21:12:47.274 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 21:12:52.405 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 21:12:52.406 [INFO ] [BOT] Modo paper — Drift não será inicializado
+2026-03-20 21:12:52.550 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 21:12:52.551 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 21:12:52.551 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 21:12:52.552 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 21:12:52.552 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 21:12:52.553 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 21:12:52.556 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 21:12:52.885 [INFO ] [WEB] Cliente conectado: daIP5upsZxX6RxmOAAAB
+2026-03-20 21:12:53.036 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 21:12:53.280 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 21:12:53.280 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 21:12:53.280 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 21:13:19.384 [INFO ] [WEB] Cliente desconectado: daIP5upsZxX6RxmOAAAB
+2026-03-20 21:13:20.720 [INFO ] [WEB] Cliente conectado: eEB8LyoL9tCUhoIXAAAD
+2026-03-20 21:14:52.483 [INFO ] [STATE] Bot pausado ⏸
+2026-03-20 21:14:52.484 [INFO ] [WEB] Comando: pausar
+2026-03-20 21:14:54.126 [INFO ] [STATE] Bot retomado ▶
+2026-03-20 21:14:54.126 [INFO ] [WEB] Comando: retomar
+2026-03-20 21:14:58.021 [INFO ] [WEB] Comando: fechar todas as posições
+2026-03-20 21:14:58.021 [INFO ] [BOT] 🔒 Comando: fechar TODAS as posições
+2026-03-20 21:14:58.021 [INFO ] [PAPER] 📝 Fechando todas as posições (simulado)
+2026-03-20 21:14:58.022 [INFO ] [BOT] ✅ Close all: 0/0 fechadas
+2026-03-20 21:15:11.079 [INFO ] [WEB] Comando: fechar ETH
+2026-03-20 21:15:11.080 [INFO ] [BOT] 🔒 Comando: fechar ETH
+2026-03-20 21:15:11.080 [INFO ] [PAPER] 📝 Fechando posição ETH (simulado)
+2026-03-20 21:15:11.080 [INFO ] [BOT] ✅ Posição ETH fechada via comando: PAPER_CLOSE_1774052111080
+2026-03-20 21:15:14.510 [INFO ] [WEB] Comando: fechar SOL
+2026-03-20 21:15:14.510 [INFO ] [BOT] 🔒 Comando: fechar SOL
+2026-03-20 21:15:14.510 [INFO ] [PAPER] 📝 Fechando posição SOL (simulado)
+2026-03-20 21:15:14.511 [INFO ] [BOT] ✅ Posição SOL fechada via comando: PAPER_CLOSE_1774052114510
+2026-03-20 21:21:43.424 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 21:21:57.387 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 21:21:57.388 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 21:21:57.388 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 21:21:57.423 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 21:21:57.424 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 21:21:59.149 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 21:21:59.561 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 21:21:59.561 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 21:21:59.720 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 21:21:59.721 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 21:21:59.721 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 21:21:59.723 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 21:21:59.724 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 21:21:59.725 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 21:21:59.727 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 21:22:00.277 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 21:22:00.515 [INFO ] [TELEGRAM] Canal: "Seita do Macaco" (ID: 2153233141)
+2026-03-20 21:22:00.516 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 21:22:00.516 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002153233141
+2026-03-20 21:22:01.069 [INFO ] [WEB] Cliente conectado: ttbbvmDNvdSCdEZNAAAB
+2026-03-20 21:22:46.923 [INFO ] [CTRL] /start | User: xluffy_d (1262019048)
+2026-03-20 21:23:04.001 [INFO ] [CTRL] cb:menu:positions | User: xluffy_d (1262019048)
+2026-03-20 21:22:53.632 [INFO ] [CTRL] cb:pos:view:SOL | User: xluffy_d (1262019048)
+2026-03-20 21:23:10.117 [INFO ] [WEB] Comando: fechar todas as posições
+2026-03-20 21:23:10.117 [INFO ] [BOT] 🔒 Comando: fechar TODAS as posições
+2026-03-20 21:23:11.697 [INFO ] [DRIFT] Ordens de SOL canceladas
+2026-03-20 21:23:13.642 [INFO ] [DRIFT] ✅ Posição SOL fechada: 4afN414LDP7u7WybFw9vsTJUKGUgh6eSAdQ75i4zJkK28d4tgp35YFR7jS7rVo1c9PFXkVerPwSTDD2o9egQmB3w
+2026-03-20 21:23:13.643 [INFO ] [DRIFT] Close all concluído: 1/1 fechadas
+2026-03-20 21:23:13.643 [INFO ] [BOT] ✅ Close all: 1/1 fechadas
+2026-03-20 21:23:28.371 [INFO ] [CTRL] cb:pos:refresh:SOL | User: xluffy_d (1262019048)
+2026-03-20 21:23:34.057 [INFO ] [CTRL] cb:pos:refresh:SOL | User: xluffy_d (1262019048)
+2026-03-20 22:26:09.177 [INFO ] [WEB] Cliente conectado: zusVqj1hIL_Fqct7AAAD
+2026-03-20 22:26:12.259 [INFO ] [WEB] Cliente desconectado: zusVqj1hIL_Fqct7AAAD
+2026-03-20 22:28:58.474 [INFO ] [WEB] Cliente conectado: 1imct74bOZVNhRzPAAAF
+2026-03-20 22:29:00.295 [INFO ] [WEB] Cliente desconectado: ttbbvmDNvdSCdEZNAAAB
+2026-03-20 22:43:16.880 [INFO ] [CTRL] /start | User: xluffy_d (1262019048)
+2026-03-20 22:43:11.533 [INFO ] [CTRL] cb:menu:pnl | User: xluffy_d (1262019048)
+2026-03-20 22:43:31.993 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 22:43:30.459 [INFO ] [CTRL] cb:menu:signals | User: xluffy_d (1262019048)
+2026-03-20 22:43:35.075 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 22:43:44.209 [INFO ] [CTRL] cb:menu:config | User: xluffy_d (1262019048)
+2026-03-20 22:44:05.684 [INFO ] [CTRL] cb:menu | User: xluffy_d (1262019048)
+2026-03-20 22:48:05.800 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 22:48:05.800 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 22:48:06.673 [INFO ] [DRIFT] Desconectado.
+2026-03-20 22:48:13.019 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 22:48:13.020 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 22:48:13.021 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 22:48:13.056 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 22:48:13.057 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 22:48:14.778 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 22:48:15.154 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 22:48:15.154 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 22:48:15.433 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 22:48:15.433 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 22:48:15.434 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 22:48:15.436 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 22:48:15.436 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 22:48:15.437 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 22:48:15.441 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 22:48:15.929 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 22:48:16.167 [INFO ] [TELEGRAM] Canal: "Meu" (ID: 2162078821)
+2026-03-20 22:48:16.168 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 22:48:16.168 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002162078821
+2026-03-20 22:48:19.914 [INFO ] [WEB] Cliente conectado: i0gVrQC0byi7t1QRAAAB
+2026-03-20 22:48:28.311 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 22:48:28.343 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 22:48:28.345 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 22:48:30.057 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 22:48:30.457 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 22:49:06.927 [INFO ] 
+[BOT] SIGINT recebido — encerrando...
+2026-03-20 22:49:06.928 [INFO ] [BOT] Sinais processados nesta sessão: 0
+2026-03-20 22:49:07.815 [INFO ] [DRIFT] Desconectado.
+2026-03-20 22:49:09.665 [INFO ] [BOT] Configurações validadas ✓
+2026-03-20 22:49:09.666 [INFO ] [BOT] Conectando ao Drift Protocol...
+2026-03-20 22:49:09.667 [INFO ] [DRIFT] Inicializando cliente via WebSocket...
+2026-03-20 22:49:09.698 [INFO ] [DRIFT] Wallet: AktDdobhaKGfJvR3rQpARk3uFzHBunE5dt6jc3Dv99am
+2026-03-20 22:49:09.699 [INFO ] [DRIFT] Ambiente: mainnet-beta
+2026-03-20 22:49:11.478 [INFO ] [DRIFT] DriftClient subscrito via WebSocket ✓
+2026-03-20 22:49:11.875 [INFO ] [DRIFT] DriftUser subscrito ✓
+2026-03-20 22:49:11.876 [INFO ] [BOT] Drift conectado ✓
+2026-03-20 22:49:12.011 [INFO ] [TRACKER] Position tracker iniciado (refresh: 30s)
+2026-03-20 22:49:12.011 [INFO ] [CTRL] Bot de controle Telegram iniciado (1 IDs autorizados)
+2026-03-20 22:49:12.011 [INFO ] [BOT] Bot de controle Telegram ativo (1 IDs autorizados)
+2026-03-20 22:49:12.012 [INFO ] [BOT] Account poller iniciado (intervalo: 10s)
+2026-03-20 22:49:12.012 [INFO ] [BOT] Iniciando listener Telegram...
+2026-03-20 22:49:12.013 [INFO ] [TELEGRAM] Conectando...
+2026-03-20 22:49:12.016 [INFO ] [WEB] Dashboard disponível em http://localhost:3000
+2026-03-20 22:49:12.636 [INFO ] [TELEGRAM] ✅ Autenticado com sucesso!
+2026-03-20 22:49:12.900 [INFO ] [TELEGRAM] Canal: "Meu" (ID: 2162078821)
+2026-03-20 22:49:12.900 [INFO ] [TELEGRAM] 🔊 Monitorando em tempo real...
+2026-03-20 22:49:12.900 [INFO ] [BOT] ✅ Bot ativo — aguardando sinais no canal: -1002162078821
+2026-03-20 22:49:14.926 [INFO ] [WEB] Cliente conectado: PraGiT1hzOMy9t0zAAAB
+2026-03-20 22:49:15.496 [INFO ] 
+════════════════════════════════════════════════════════════
+2026-03-20 22:49:15.497 [INFO ] [BOT] 📩 Sinal detectado: SOLSHORTTEST001
+2026-03-20 22:49:15.497 [INFO ] [PARSER] ✅ Sinal SOLSHORTTEST001 validado com sucesso
+2026-03-20 22:49:15.497 [INFO ] [DRIFT] Free collateral: $110.55
+2026-03-20 22:49:15.498 [INFO ] [RISK] ── Pré-validação SOLSHORTTEST001 (SHORT SOL) ──
+2026-03-20 22:49:15.498 [INFO ] [RISK] Ativo: SOL → marketIndex 0 ✓
+2026-03-20 22:49:15.498 [INFO ] [RISK] Leverage: sinal=10x | plataforma=20x | config=20x → final=10x
+2026-03-20 22:49:15.498 [INFO ] [RISK] R:R = 1:2.00 (risco 1.64% / recompensa 3.29%)
+2026-03-20 22:49:15.499 [INFO ] [RISK] Conta (Drift): freeCollateral=$110.55 | equity=$110.55 | posições=0 | notional=$0.00
+2026-03-20 22:49:15.499 [INFO ] [SIZING] equity=110.55 pct=0.1 leverage=10
+2026-03-20 22:49:15.499 [INFO ] [SIZING] targetMargin=11.05
+2026-03-20 22:49:15.499 [INFO ] [SIZING] targetNotional=110.55
+2026-03-20 22:49:15.499 [INFO ] [RISK] Margem disponível (após 10% buffer): $99.49
+2026-03-20 22:49:15.499 [INFO ] [RISK] Exposição: atual=$0.00 + nova=$110.55 = $110.55 | limite=$88.44
+2026-03-20 22:49:15.499 [WARN ] [RISK] ⚠️  Colateral reduzido por exposição máxima: $11.05 → $8.84
+2026-03-20 22:49:15.500 [INFO ] [RISK] Ordem: 0.995610 base → snap(0.01) = 0.990000 | min=0.01 | nocional=$87.94
+2026-03-20 22:49:15.500 [INFO ] [RISK] ⚙️  Ajustes realizados: colateral reduzido $11.05→$8.84 (exposição máxima) | base snappeado 0.995610→0.990000 (step 0.01)
+2026-03-20 22:49:15.500 [INFO ] [RISK] ✅ Parâmetros aprovados:
+  {
+  "marketIndex": 0,
+  "alavancagem": "10x",
+  "colateral": "$8.7942",
+  "nocional": "$87.9417",
+  "base": "0.990000 SOL",
+  "RR": "1:2.00",
+  "margemLivre": "$110.55",
+  "posicoes": "1/5"
+}
+2026-03-20 22:49:15.500 [INFO ] [BOT] 🚀 Enviando para Drift Protocol...
+2026-03-20 22:49:15.500 [INFO ] [DRIFT] Tentativa 1/3 — SOLSHORTTEST001
+2026-03-20 22:49:15.500 [INFO ] [DRIFT] Abrindo SHORT SOL | Entrada: $88.83 | TP: $85.91 | SL: $90.29 | 10x
+2026-03-20 22:49:15.501 [INFO ] [DRIFT] Colateral: precisa $8.79 | disponível $110.55 ✓
+2026-03-20 22:49:15.501 [INFO ] [DRIFT] Tamanho de ordem: 0.990000 (min 0.01, step 0.01) ✓
+2026-03-20 22:49:15.501 [INFO ] [DRIFT] Leverage recebida pelo executor: 10x
+2026-03-20 22:49:15.501 [INFO ] [DRIFT] ⚙️  Configurando leverage:
+  {
+  "leverageSinalRecebida": "10x",
+  "marginRatioBruto": "1000 bps  (10.00%)",
+  "minMarginRatioMercado": "500 bps",
+  "marginRatioFinal": "1000 bps",
+  "leverageEfetivaFinal": "10.00x",
+  "highLeverageMode": false
+}
+2026-03-20 22:49:17.608 [INFO ] [DRIFT] ✅ Leverage configurada: 10.00x | tx: k9nNa1PKsyQQEcXU1utqKE1rrvNLPWTMUkK3mUKAVE7KCwH1vfYMu38ZPWHRXhdXHJMoYTAnv6skmWQMT7qUjag
+2026-03-20 22:49:17.608 [INFO ] [DRIFT] Leverage efetivamente aplicada: 10.00x
+2026-03-20 22:49:17.608 [INFO ] [DRIFT] 🔒 Tipo de margem: ISOLATED | colateral alocado: $8.7942
+2026-03-20 22:49:17.608 [INFO ] [DRIFT] Enviando market order (ISOLATED 10.00x)...
+2026-03-20 22:49:32.538 [INFO ] [DRIFT] ✅ Market order: jhpJjDEHMGzL2NuYhqRnT2TUWpcEPFqWZpwQcCZ2FDCcf8mv6tddXNFnTG5FZW8viY7zkzbu3QSmJmStmxcTVgX
+2026-03-20 22:49:22.187 [INFO ] [DRIFT] ✅ Take Profit $85.91: 2Wc7qD1ZcLRgNJ8d65Ef4MdNsoJGvgmEmYeM61gRD2LMqpp6xAx7qDWiZqR7X1d2xsK91xJii2KUYK6xR1u8VKo
+2026-03-20 22:49:22.899 [INFO ] [DRIFT] ✅ Stop Loss $90.29: uGejyjAQsPvnQdq5a8KACbvkvdEFnM8wSc29mhxtpynzpotVGNhnb1p5D8PnzwBy96rN2XS6QW6GoqycLPhg5NR
+2026-03-20 22:49:22.899 [INFO ] [DRIFT] 🎯 Posição completa!
+  {
+  "marketOrder": "https://solscan.io/tx/jhpJjDEHMGzL2NuYhqRnT2TUWpcEPFqWZpwQcCZ2FDCcf8mv6tddXNFnTG5FZW8viY7zkzbu3QSmJmStmxcTVgX",
+  "takeProfit": "https://solscan.io/tx/2Wc7qD1ZcLRgNJ8d65Ef4MdNsoJGvgmEmYeM61gRD2LMqpp6xAx7qDWiZqR7X1d2xsK91xJii2KUYK6xR1u8VKo",
+  "stopLoss": "https://solscan.io/tx/uGejyjAQsPvnQdq5a8KACbvkvdEFnM8wSc29mhxtpynzpotVGNhnb1p5D8PnzwBy96rN2XS6QW6GoqycLPhg5NR"
+}
+2026-03-20 22:49:22.914 [INFO ] [BOT] ✅ Posição aberta!
+  {
+  "sinal": "SOLSHORTTEST001",
+  "ativo": "SHORT SOL",
+  "entrada": "$88.83",
+  "tp": "$85.91",
+  "sl": "$90.29",
+  "leverage": "10x",
+  "colateral": "$8.79",
+  "nocional": "$87.94",
+  "txs": {
+    "marketOrder": "jhpJjDEHMGzL2NuYhqRnT2TUWpcEPFqWZpwQcCZ2FDCcf8mv6tddXNFnTG5FZW8viY7zkzbu3QSmJmStmxcTVgX",
+    "takeProfit": "2Wc7qD1ZcLRgNJ8d65Ef4MdNsoJGvgmEmYeM61gRD2LMqpp6xAx7qDWiZqR7X1d2xsK91xJii2KUYK6xR1u8VKo",
+    "stopLoss": "uGejyjAQsPvnQdq5a8KACbvkvdEFnM8wSc29mhxtpynzpotVGNhnb1p5D8PnzwBy96rN2XS6QW6GoqycLPhg5NR"
+  }
+}
+2026-03-20 22:49:22.914 [INFO ] ════════════════════════════════════════════════════════════
+
+2026-03-20 22:49:23.249 [INFO ] [TRACKER] Card criado para SOL
+2026-03-20 23:45:11.506 [INFO ] [TRACKER] Posição SOL fechada — card removido
